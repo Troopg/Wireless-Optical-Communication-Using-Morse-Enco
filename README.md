@@ -21,6 +21,8 @@ Real-time keyboard messaging
 IoT integration-> MAKE SURE THERE ARE NO OTHER LIGHT SOURCE FALLING ON LDR WHICH CAN CAUSE DISTORTION IN THE OUTPUT .
 -> KEEP THE LED AND LDR AT DISTANCE BETWEEN 1 - 2 CM FACE TO FACE .
 -> CONNECT BOTH ARDUINO NANO TO SAME POWER SUPPLY AND COMPONENTS 
+-> change the timing in code if you see error in output 
+-> you can add your text by adding the morse code to it 
 
 
 Future Improvements
